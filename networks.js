@@ -23,10 +23,8 @@ exports.livenet = {
     bits: 504365040,
   },
   dnsSeeds: [
-    'seed.dogecoin.com',
-    'seed.mophides.com',
-    'seed.dglibrary.org',
-    'seed.dogechain.info'
+    'seed.multidoge.org',
+    'seed2.multidoge.org'
   ],
   defaultClientPort: 22556
 };
@@ -52,8 +50,7 @@ exports.testnet = {
     bits: 504365040,
   },
   dnsSeeds: [
-    'testdoge-seed.lionservers.de',
-    'testdoge-seed-static.lionservers.de'
+    'node.jrn.me.uk'
   ],
   defaultClientPort: 44556
 };
