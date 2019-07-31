@@ -1086,7 +1086,7 @@ module.exports=require('DB/p3X');
 var log = require('../util/log');
 
 var MAX_RECEIVE_BUFFER = 10000000;
-var PROTOCOL_VERSION = 70002;
+var PROTOCOL_VERSION = 70003;
 
 var Put = require('bufferput');
 var Buffers = require('buffers');
